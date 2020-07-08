@@ -18,5 +18,5 @@ When you're done, you will be prompted to enter your initials which will be save
 
 Good luck!
 
-![Image of code quiz]
-(https://www.evernote.com/shard/s498/client/snv?noteGuid=b95a57c2-805f-4a3d-8f84-9473e50d6406&noteKey=b13bf738d1e95440&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs498%2Fsh%2Fb95a57c2-805f-4a3d-8f84-9473e50d6406%2Fb13bf738d1e95440&title=Code%2BQuiz)
+
+![Image of code quiz](https://github.com/jourdancase1/code-quiz/blob/master/code-quiz-assets/code%20quiz.png)
